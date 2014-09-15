@@ -4,15 +4,16 @@ Instead of continually re-writing a program to create different random generator
 
 Social Context
 
-• this program is meant to be a fun and easy way to brighten someones day 
+The Randomizer program is intended to be a fun and easy way to brighten someones day. 
 
-• goal is to make it easy for users to make a funny program on their own
+The goal for this program is to allow users to view other peoples creations and input their own set of data and view it in a random order. Ideally, the data uploaded will be lists of funny images that can bring laughter. If someone is having a rough day, is bored, or just wakes up on the wrong side of the bed, this program can help turn their day around.
 
-• allows users to have an outlet for their creativity
+By allowing users to create their own random feed and use their own data, we are allowing people to have an outlet for their creativity. Often time, people are so busy with their day to day lives that they let go of hobbies such as painting or drawing, which are outlets for creativity but are also time consuming.  We want this program to easy and quick to use, giving people a way to be creative without using up a ton of time.
 
-• creates a network for people who have similiar interests
+Once the basic program has been created, we can work on creating a network that connects people who have similiar interests. 
 
-• ideally, the program will be very user friendly, making it available to a wide variety of people
+Ideally, the program will be very user friendly, making it available to a wide variety of people
+
 
 Scenarios:
-Leah is waiting for an appointment to start. She doesn't know anyone in the office and therefore has nobody to talk too. All the magazines in the office are either for people over the age of forty or are about a six months to a year out of date. Instead of staring at the bland paintings on the wall, she pulls out her phone and flips open the Randomizer app. Leah starts flipping through different cat memes and entertains herself until she is called for her appointment. 
+Leah is waiting for an appointment to start. She doesn't know anyone in the office and has nobody to talk too. All the magazines in the office are either for people over the age of forty or are about a six months to a year out of date. Instead of staring at the bland paintings on the wall, she pulls out her phone and flips open the Randomizer app. Leah starts flipping through a random assortment of cat memes and entertains herself until she is called for her appointment. 
