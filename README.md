@@ -14,3 +14,5 @@ Social Context
 
 • ideally, the program will be very user friendly, making it available to a wide variety of people
 
+Scenarios:
+Leah is waiting for an appointment to start. She doesn't know anyone in the office and therefore has nobody to talk too. All the magazines in the office are either for people over the age of forty or are about a six months to a year out of date. Instead of staring at the bland paintings on the wall, she pulls out her phone and flips open the Randomizer app. Leah starts flipping through different cat memes and entertains herself until she is called for her appointment. 
