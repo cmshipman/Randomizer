@@ -18,6 +18,8 @@ Leah is waiting for an appointment to start. She doesn't know anyone in the offi
 
 Caitlin is a FROG (first year orientation guide) and has found herself in front of 30 awkward and shy freshmen looking to her to make friends. She is fronted with the problem of helping the freshman mingle and get to know each other. Instead of having to carry around a book of games (or icebreakers) or going through the difficulty of searching on Google for icebreaker ideas or making something up on the spot, Caitlin pulls out her phone and is able to scroll through The Randomizer app which allows her to find dozens of icebreaker game ideas quickly and effortlessly. 
 
+Brandon is preparing to go on a business trip to present a proposal to a huge client. He knows that he will be very stressed and nervous once he arrives. Instead of letting the stress get to him, he goes on his computer and begins to download images of inspirational quotes. He then opens the Randomzer app and begins to upload these images to create a collection of inspirational images. When he arrives at his client, he takes out his tablet and opens the Randomizer app, which allows him to randomly scroll through his uploaded inspirational images. With his confidence boosted, Brandon goes in and aces his proposal pitch!
+
 Sources:
 
 Huffing Post Article about Instagram having to block pro-ana hastags: http://www.huffingtonpost.com/lauren-duca/thinspiration-banned-from-instagram_b_3829155.html
