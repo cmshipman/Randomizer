@@ -1,0 +1,8 @@
+List of specifications for this program:
+
+- login page (username, password, password recovery)
+- home page with buttons leading to previous categroies users have made, friends categories,and way to start new category
+- way to input .jpg and .gif files
+- way to store files that have been input
+- button to click through files
+- way to follow/connect friends
