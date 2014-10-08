@@ -1,5 +1,6 @@
-List of specifications for this program:
+List of specifications for this program
 
+Big Dream:
 - login page (username, password, password recovery)
 - home page with buttons leading to previous categroies users have made, friends' categories, and way to start new category
 - way to unpload .jpg and .gif files
@@ -7,4 +8,8 @@ List of specifications for this program:
 - button to click through files
 - way to follow/connect friends
 - way to share to Facebook
--
+
+First Steps:
+- start with create new page
+- add image page
+- swipe through images
