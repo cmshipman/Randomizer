@@ -1,0 +1,41 @@
+#!/usr/bin/python
+import unittest, inspect, os, sys
+#adds libISAT340 library
+curDir = os.path.dirname(os.path.realpath(__file__))
+sys.path.append(curDir)
+
+#add lib library
+dirName = os.path.dirname(curDir)
+sys.path.append(dirName)
+dirName2 = os.path.dirname(dirName)
+libPath = dirName2 + "/lib"
+sys.path.append(libPath)
+
+import pictures
+
+class pictureTestCase(unittest.TestCase):
+	print "Tests for `pictures.py`."
+
+	def setUp(self):
+		print "\tset up"	
+
+	def testDisplay(self):
+		print "\ttestDisplay"
+		#expect return values
+		#error = ""
+		#comment = ""
+		#retVal = 0
+		img = "/Users/Caitlin/Documents/JMU/senioryear/ISAT340/scripts/appleBench/IMAGES/plat.jpg"
+		retDict = pictures.display(img)
+		retVal = retDict['retVal']
+		comment = retDict['comment']
+		error = retDict['error']
+		print "\t\terror:  _" + error  + "_"
+		print "\t\tretVal:  _" + str(retVal)  + "_"
+		print "\t\tcomment: _" + comment + "_"
+		
+		#add assert - docs.python.org
+			
+		
+	def tearDown(self):
+		print "\ttear down"
